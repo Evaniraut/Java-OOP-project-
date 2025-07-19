@@ -22,7 +22,11 @@ This project implements three Java classes — **Teacher**, **Lecturer**, and **
 - Applying OOP principles in Java  
 - Designing class hierarchies with inheritance  
 - Debugging and error handling in Java programs  
-- Documenting software development comprehensively  
+- Documenting software development comprehensively
+  
+## Files in this Repo  
+- [23047473 Evani Raut/Evani Raut.pdf](./23047473%20Evani%20Raut/Evani%20Raut.pdf) — Full project report  
+- [23047473 Evani Raut/Evani Raut_23047473](./23047473%20Evani%20Raut/Evani%20Raut_23047473) — Supporting documents and source files  
 
 ## How to Run  
 - Open the project in any Java IDE (BlueJ, Eclipse, IntelliJ IDEA)  
